@@ -4,6 +4,8 @@
 
 ![board](.assets/board.png)
 
+官方固件默认波特率：74880
+
 ## 引脚定义
 
 | 功能名称     | GPIO 引脚 |
