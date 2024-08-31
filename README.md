@@ -49,4 +49,4 @@ OW8266-02Q 与 WT8266-S1 非常相似，资料可从此获得：[WT8266-S1 WiFi 
 ## 固件
 
  - ow8266 文件夹为 Arduino 发送接收红外示例，可以使用 Arduino 工具直接下载；
-
+ - https://github.com/Mixiaoxiao/ESP8266-IR-HOMEKIT
