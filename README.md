@@ -17,6 +17,8 @@
 
 ![pinout](.assets/pinout.png)
 
+## ESPHOME
+ESPHOME board should be esp_wroom_02(only 2MByte spi flash)
 
 OW8266-02Q 与 WT8266-S1 非常相似，资料可从此获得：[WT8266-S1 WiFi Module Based on ESP8266](https://core-electronics.com.au/wt8266-s1-wifi-module-based-on-esp8266.html)。
 
